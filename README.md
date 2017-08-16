@@ -1,1 +1,1 @@
-# Test repo for Jekyll Blog
+# Test repo
